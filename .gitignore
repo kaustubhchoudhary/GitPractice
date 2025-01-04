@@ -1,0 +1,11 @@
+# Ignore IDE-specific files and folders
+.settings/
+.classpath
+.project
+
+# Ignore compiled binaries
+bin/
+
+# Keep source code and documentation
+!src/
+!README.md 
